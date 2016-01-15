@@ -1,0 +1,12 @@
+{
+    "default": {
+        "name": "Default",
+        "description": "The standard Anathema deck",
+        "file": "default.json"
+    },
+    "lds": {
+        "name": "LDS",
+        "description": "A custom deck especially for Latter-day Saints.",
+        "file": "lds.json"
+    }
+}
